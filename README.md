@@ -34,7 +34,7 @@ If you want to protect your personal data on public networks and enjoy the full,
 
 #### Protect Your Devices Now
 Download Kite VPN for secure, unrestricted browsing on the go:
-- **Official Website**: [KiteVPN](http://kitevip.vip)
+- **Official Website**: [KiteVPN](https://kitevip.vip?f=github)
 - One subscription protects your iOS, Android, macOS, and Windows devices.
 
 ---
@@ -69,7 +69,7 @@ Download Kite VPN for secure, unrestricted browsing on the go:
 
 #### 立即保护您的设备
 下载 Kite VPN，畅享安全、无限制的随身网络：
-- **官方网站**：[KiteVPN](http://kitevip.vip)
+- **官方网站**：[KiteVPN](https://kitevip.vip?f=github)
 - 一个账号支持 iOS、Android、macOS 和 Windows 设备同步在线。
 
 ---
@@ -104,5 +104,5 @@ Download Kite VPN for secure, unrestricted browsing on the go:
 
 #### Защитите свои устройства прямо сейчас
 Скачайте Kite VPN для безопасного серфинга без ограничений:
-- **Наш сайт**: [KiteVPN](http://kitevip.vip)
+- **Наш сайт**: [KiteVPN](https://kitevip.vip?f=github)
 - Одна подписка защищает ваши устройства на iOS, Android, macOS и Windows.
